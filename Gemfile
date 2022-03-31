@@ -5,4 +5,3 @@ end
 
 group :development :test 
   gem sqlite3
-end 
